@@ -1,0 +1,21 @@
+{
+  "name": "ds",
+  "homepage": "https://github.com/AhmedEid3/DS",
+  "authors": [
+    "AhmedEid3 <ahmed.eid3@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.2",
+    "font-awesome": "font-awsome#^4.7.0"
+  }
+}
