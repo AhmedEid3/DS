@@ -1,9 +1,9 @@
 ﻿body {
-    background: #E3F2FD;
+    background: #FFEBEE;
 }
 
 nav {
-    background: #0D47A1;
+    background: #B71C1C;
 }
 nav .brand-logo {
     padding: 0 30px;
@@ -14,5 +14,5 @@ nav .brand-logo {
 }
 
 .page-footer {
-    background-color: #1565C0;
+    background-color: #C62828;
 }
