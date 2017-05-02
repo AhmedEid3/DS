@@ -35,9 +35,9 @@ angular
       url: '/video',
       templateUrl: 'app/view/video.html'
     })
-    .state("Webdevelopment", {
-      url: '/Webdevelopment',
-      templateUrl: 'app/view/Webdevelopment.html'
+    .state("webdevelopment", {
+      url: '/webdevelopment',
+      templateUrl: 'app/view/webdevelopment.html'
     })
     .state("emailmarketing", {
       url: '/emailmarketing',
