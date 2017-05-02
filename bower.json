@@ -16,6 +16,8 @@
   ],
   "dependencies": {
     "materialize": "^0.98.2",
-    "font-awesome": "font-awsome#^4.7.0"
+    "font-awesome": "font-awsome#^4.7.0",
+    "angular": "^1.6.4",
+    "angular-ui-router": "ui-router#^0.4.2"
   }
 }
